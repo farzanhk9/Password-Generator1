@@ -1,4 +1,4 @@
-import secrets
+import secrets2
 import string
 
 
